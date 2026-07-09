@@ -1,0 +1,44 @@
+# 🎙️ AI Interview Copilot
+
+An AI-powered interview coach that conducts realistic mock interviews, evaluates responses, and provides personalized feedback.
+
+## 🚀 Features (Planned)
+
+- Resume-based interview questions
+- AI answer evaluation
+- Voice interviews
+- Progress tracking
+- Feedback generation
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- OpenAI GPT-5
+- Whisper
+- Next.js
+- PostgreSQL
+
+## 📌 Current Progress
+
+- ✅ FastAPI backend setup
+- ✅ GET APIs
+- ✅ POST APIs
+- ✅ Pydantic models
+- ✅ Swagger API testing
+- ✅ GitHub repository setup
+
+## 📂 Project Structure
+
+```
+AI-Interview-Copilot
+│
+├── backend
+├── frontend
+├── database
+└── README.md
+```
+
+## 👩‍💻 Developer
+
+**Madhumita V**
